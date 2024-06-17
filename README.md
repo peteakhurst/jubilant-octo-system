@@ -23,34 +23,33 @@ npm (v6 or higher)
 Server Setup
 Clone the repository:
 
-sh
+
 Copy code
 git clone <repository-url>
 cd issue-tracker/issue-tracker-server
 Install server dependencies:
 
-sh
+
 Copy code
 npm install
 Start the server:
 
-sh
+
 Copy code
 node server.js
 Client Setup
 Navigate to the client directory:
 
-sh
+
 Copy code
 cd ../issue-tracker-client
 Install client dependencies:
 
-sh
 Copy code
 npm install
 Start the Vite development server:
 
-sh
+
 Copy code
 npm run dev
 Running the Application
@@ -94,4 +93,3 @@ UI/UX Enhancements: Enhance the UI with better styling and add features like fil
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-This README provides a comprehensive overview of your project, instructions for installation and running the application, a description of the API design, and notes on potential improvements. Make sure to replace <repository-url> with the actual URL of your repository.
